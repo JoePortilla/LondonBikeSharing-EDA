@@ -1,6 +1,6 @@
 # Viajes en bicicleta por Londres - Análisis Exploratorio de Datos
 
-<img src="https://raw.githubusercontent.com/JoePortilla/LondonBikeSharing-EDA/main/img/BikeSharing_eda_github.png" width="800" alt="logo" style="display:block;margin:auto;">
+<img src="https://raw.githubusercontent.com/JoePortilla/LondonBikeSharing-EDA/main/img/bikesharing_eda_cover.webp" width="800" alt="logo" style="display:block;margin:auto;">
 
 - El dataset `Londres Bike Sharing` es un conjunto de datos históricos que contiene información detallada sobre el uso del sistema de bicicletas compartidas de Londres.
 - El conjunto de datos incluye datos horarios de uso de bicicletas para cada estación de bicicletas en Londres, desde enero de 2015 hasta enero de 2017.
